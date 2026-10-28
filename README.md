@@ -46,4 +46,4 @@ analizador-lexico/
 
 Juan Osvaldo Lopez Meneses
 Ingeniero 
-Estudiante de Sistemas Computacionales,
+Sistemas Computacionales,
