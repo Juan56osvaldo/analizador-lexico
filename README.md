@@ -44,4 +44,4 @@ analizador-lexico/
 
 ## Autor
 
-Juan Osvaldo Lopez Meneses Ingeniero Estudiante de Sistemas Computacionales
+Juan Osvaldo Lopez Meneses Estudiante de Sistemas Computacionales
